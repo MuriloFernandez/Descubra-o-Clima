@@ -7,4 +7,4 @@
 <p>Temperatura - Nome - Humidade - Velocidade do Vento</p>
 
 <p>E a imagem muda de acordo com o clima (Ensolarado, Nublado, Chuvoso etc...)</p>
-<p>De olho na responsividade tentei deixar o mais responsivo que consigue, ate os tamanho 320px acredito que ficou bem bacana</p>
+<p>De olho na responsividade tentei deixar o mais responsivo que consegui, ate os tamanho 320px acredito que ficou bem bacana</p>
