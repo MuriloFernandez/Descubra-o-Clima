@@ -8,3 +8,5 @@
 
 <p>E a imagem muda de acordo com o clima (Ensolarado, Nublado, Chuvoso etc...)</p>
 <p>De olho na responsividade tentei deixar o mais responsivo que consegui, ate os tamanho 320px acredito que ficou bem bacana</p>
+
+<img C:\Users\muril\Downloads\Captura de tela_27-4-2024_17230_127.0.0.1.jpeg>
